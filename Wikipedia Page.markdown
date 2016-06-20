@@ -2,6 +2,6 @@ Wikipedia Page
 --------------
 
 
-A [Pen](http://codepen.io/123Fives/pen/jqjaZb) by [Veronica Highsmith](http://codepen.io/123Fives) on [CodePen](http://codepen.io/).
+A [Pen](https://codepen.io/123Fives/pen/jqjaZb) by [Veronica Highsmith](http://codepen.io/123Fives) on [CodePen](http://codepen.io/).
 
-[License](http://codepen.io/123Fives/pen/jqjaZb/license).
+[License](https://codepen.io/123Fives/pen/jqjaZb/license).
